@@ -17,9 +17,9 @@ Pod::Spec.new do |s|
 					  'spine-cocos2d-iphone/src/spine/*.{h,m}'
 	
 	s.platform 		= :ios
-	s.requires_arc 	= false
+	s.requires_arc 	= true
 
-	s.ios.deployment_target = "5.1.1"
+	s.ios.deployment_target = "6.1.1"
 	
 	s.header_dir 	= 'spine'
 	
