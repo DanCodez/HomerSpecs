@@ -1,7 +1,6 @@
 Pod::Spec.new do |s|
 	s.name			= 'Spine-Cocos2d-iPhone'
 	s.version      	= '2.0.18'
-	# s.license      	=  { :type => 'Copyright 2013 Esoteric Software. All rights reserved.', :file => 'spine-c/include/spine/spine.h' }
 	s.license       = { type: 'Spine Runtimes Software License', :file => 'LICENSE' }
 	s.homepage     	= 'http://esotericsoftware.com/'
 	s.author      	= 'EsotericSoftware' 
@@ -23,5 +22,5 @@ Pod::Spec.new do |s|
 	
 	s.header_dir 	= 'spine'
 	
-	s.dependency 	'cocos2d'
+	s.dependency 	'cocos2d', '~> 3.1.2'
 end
