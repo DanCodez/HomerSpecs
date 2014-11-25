@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
 	
 	s.header_dir 	= 'spine'
 	
-	s.dependency 	'cocos2d-swift'
+	s.dependency 	'cocos2d', '3.1.2'
 end
