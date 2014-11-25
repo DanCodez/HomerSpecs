@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 	s.author      	= 'EsotericSoftware' 
 	s.summary      	= '2D skeletal animation runtime for Spine'
 	s.source       	= { 
-		:git => 'https://github.com/EsotericSoftware/spine-runtimes.git', 
+		:git => 'https://github.com/DanCodez/spine-runtimes.git', 
 		:tag => '2.0.19-20141125'
 	}
 	s.source_files 	= 'spine-cocos2d-iphone/3/src/spine/*.{h,m}'
