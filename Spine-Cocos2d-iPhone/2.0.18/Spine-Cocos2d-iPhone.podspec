@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 	
 	s.source_files 	= 'spine-c/include/spine/*.{h,c}', 
 					  'spine-c/src/spine/*.{h,c}', 
-					  'spine-cocos2d-iphone/src/spine/*.{h,m}'
+					  'spine-cocos2d-iphone/3.0/src/spine/*.{h,m}'
 	
 	s.platform 		= :ios
 	s.requires_arc 	= true
