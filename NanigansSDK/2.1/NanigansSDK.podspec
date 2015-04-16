@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author       = { 'Nanigans' => 'support@nanigans.com' }
   s.platform     = :ios
   s.framework    = 'AdSupport', 'MessageUI', 'SystemConfiguration'
-  s.source       = { :git => "https://github.com/WonderThink/HomerSpecs.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/WonderThink/NanigansSDK.git", :tag => s.version.to_s }
   s.license      = {
     :type => 'Commercial',
     :text => 'Privacy Policy is located at http://www.nanigans.com/privacy-policy/',
