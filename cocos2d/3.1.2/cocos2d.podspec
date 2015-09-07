@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'cocos2d'
-  spec.version      = '3.1.2'
+  spec.version      = '3.4.9'
   spec.license      = { type: 'mit' }
   spec.summary      = 'cocos2d-swift is a framework for building 2d games'
   spec.homepage     = 'http://www.cocos2d-swift.org/'
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
 
   spec.source       =  {
     git: 'https://github.com/cocos2d/cocos2d-swift.git',
-    tag: 'release-3.1.2',
+    tag: 'release-3.4.9-rc1',
     :submodules => true
   }
 
