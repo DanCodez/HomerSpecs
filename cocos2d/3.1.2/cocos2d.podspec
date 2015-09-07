@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'cocos2d'
-  spec.version      = '3.4.9'
+  spec.version      = '3.1.2'
   spec.license      = { type: 'mit' }
   spec.summary      = 'cocos2d-swift is a framework for building 2d games'
   spec.homepage     = 'http://www.cocos2d-swift.org/'
