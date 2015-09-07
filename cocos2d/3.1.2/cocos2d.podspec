@@ -55,7 +55,7 @@ Pod::Spec.new do |spec|
 
     sp.name = "ObjectiveChipmunk"
 
-    sp.version      = '3.4.9'
+    sp.version      = '3.1.2'
 
     sp.requires_arc = false
     
